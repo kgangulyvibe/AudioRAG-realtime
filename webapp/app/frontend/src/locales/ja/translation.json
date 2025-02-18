@@ -7,7 +7,7 @@
         "stopConversation": "会話を停止"
     },
     "status": {
-        "notRecordingMessage": "あなたのデータに関して何でも聞いてください",
+        "notRecordingMessage": "Contoso 従業員の福利厚生について質問してください",
         "conversationInProgress": "会話が進行中"
     },
     "history": {

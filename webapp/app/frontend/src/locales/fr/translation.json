@@ -7,7 +7,7 @@
         "stopConversation": "Arrêter la conversation"
     },
     "status": {
-        "notRecordingMessage": "Demandez-moi n'importe quoi concernant vos données",
+        "notRecordingMessage": "Posez des questions sur les avantages sociaux des employés de Contoso",
         "conversationInProgress": "Conversation en cours"
     },
     "history": {
