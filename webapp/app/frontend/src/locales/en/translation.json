@@ -7,7 +7,7 @@
         "stopConversation": "Stop conversation"
     },
     "status": {
-        "notRecordingMessage": "Vicroads Driving Rules and Victoria Real Estate Assistant",
+        "notRecordingMessage": "Azure OpenAI Realtime API with RAG model - Demo",
         "conversationInProgress": "Conversation in progress"
     },
     "history": {
